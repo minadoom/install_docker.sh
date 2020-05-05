@@ -1,7 +1,7 @@
 #!/bin/bash
 
 docker_package=("docker.io" "docker-compose")
-printf "*************************\n*** Create by HouSeKi ***\n*************************\n"
+printf "*************************\n*** Create by {G} o l {F} ***\n*************************\n"
 
 isRoot(){
     if [ "$(id -u)" != "0" ]; then
